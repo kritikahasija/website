@@ -171,7 +171,7 @@
 		padding-left: 135px;
 	  }
 	  .masthead .masthead-heading {
-		font-size: 42px;
+		font-size: 48px;
 		
 		line-height: 1.5;
 		font-family: Playfair display;
@@ -179,9 +179,9 @@
 	
 	  }
 	  .masthead .masthead-subheading {
-		font-size: 24px;
+		font-size: 36px;
 		line-height: 1.5;
-		padding-right: 635px;
+		padding-right: 435px;
 		font-family: Playfair display;
 		color: black;
 		opacity:87%
