@@ -494,6 +494,9 @@
 		margin-bottom: 25px;
 	}
 	
+	.pic{
+		float: center;
+	}
 	
 	
 	
@@ -510,6 +513,10 @@
 			line-height: 1.5;
 			font-weight: 450;
 
+		}
+		
+		.pic{
+			float: right;	
 		}
 		
 		.head{
