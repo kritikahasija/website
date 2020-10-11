@@ -489,10 +489,11 @@
 	
 	img.photo{
 		border-radius: 5px;
-		height: 392px;
-		width: 320px;
-		padding-bottom: 25px;
+		height: 351px;
+		width: 310px;
+		margin-bottom: 25px;
 	}
+	
 	
 	
 	
@@ -521,11 +522,14 @@
 		}
 	
 		
+		
 		img.photo{
 			border-radius: 5px;
 			height: 612px;
 			width: 500px;
+			margin-bottom: 0px;
 		}
+	
 	
 	}
 	
