@@ -33,7 +33,7 @@
 
 	.navbar-brand {
 	 
-	  height: 60px;
+	  
 	  line-height: 60px;
 	  font-size: 18px;
 	  color:black;
@@ -98,15 +98,16 @@
 		
 
 	  }
-	}
 	
 	.navbar-brand{
 		font-family: Varela Round;
-		font-weight: bold;
-		font-size: 16px;
-		padding-bottom: 14px;
-		padding-top: 14px;
-		
+		font-size: 22px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		display: flex;
+		align-items: center;
+		margin-top: 14px;
+		margin-bottom: 12px;
 	}
 	
 	
@@ -119,7 +120,7 @@
 		font-weight: bold;
 		
 	}
-
+}
 
 	.masthead {
 	  padding-top: 150px;
