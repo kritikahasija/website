@@ -313,7 +313,8 @@
 	  padding: 5px;
 	  padding-bottom: 50px;
 	  text-align: left;
-	  color: #828282;
+	  color: black;
+	  opacity: 87%;
 	  font-size: 14px;
 	  line-height:1.5;
 	  font-family: Varela Round;
