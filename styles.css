@@ -141,6 +141,10 @@
 	  color: black;
 	  opacity: 87%;
 	}
+
+	.masthead .masthead-text{
+		
+	}
 	
 	
 		.masthead .wave {
@@ -186,6 +190,11 @@
 		color: black;
 		opacity:87%
 	  }
+		
+		.masthead .masthead-text{
+			
+		}
+		
 	}
 	
 
@@ -262,8 +271,8 @@
 	img.rounded-corners{
 		
 		border-radius: 10px;
-		height: 270px;
-		width: 270px;
+		height: 320px;
+		width: 320px;
 	}
 	
 	
@@ -301,7 +310,7 @@
 	}
 	div.gallery {
 	  
-	 width: 270px;
+	 width: 320px;
 	 
 	}
 
@@ -410,6 +419,8 @@
 	  line-height: 1.5;
 	  font-family: Varela Round;
 	  text-align: center; 
+	  padding-left: 15px;
+	  padding-right: 15px;
 	}
 	
 	a.btn{
