@@ -106,6 +106,7 @@
 		align-items: center;
 		margin-top: 14px;
 		margin-bottom: 12px;
+		font-weight: bold;
 	}
 	
 	
@@ -504,6 +505,7 @@
 		height: 351px;
 		width: 310x;
 		margin-bottom: 25px;
+		margin-top: 50px;
 	}
 	
 	.pic{
@@ -545,8 +547,9 @@
 		img.photo{
 			border-radius: 5px;
 			height: 612px;
-			width: 500px;
+			width: 450px;
 			margin-bottom: 0px;
+			margin-top: 0px;
 		}
 	
 	
