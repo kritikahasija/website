@@ -376,8 +376,8 @@
 		img.rounded-corners{
 			
 		border-radius: 10px;
-		height: 350px;
-		width: 350px;
+		height: 550px;
+		width: 550px;
 	}
 	
 	
@@ -411,7 +411,7 @@
 	
 		div.gallery {
 	  
-			width: 350px;
+			width: 550px;
 		}
 		
 		
@@ -424,6 +424,7 @@
 		  font-size: 16px;
 		  line-height:1.5;
 		  font-family: Varela Round;
+		  padding-bottom: 70px;	
 		
 		}
 		
