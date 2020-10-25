@@ -97,6 +97,9 @@
 		
 
 	  }
+		.navbar-nav > li > a:active{
+			background-color: transparent;	
+		}
 	
 	.navbar-brand{
 		font-family: Varela Round;
@@ -153,7 +156,7 @@
 		
 	}
 
-	.masthead > a{
+	.masthead .masthead-text > a:link{
 		
 		color: black;
 		opacity: 87%;
@@ -214,7 +217,7 @@
 			
 		}
 		
-		.masthead > a{
+		.masthead .masthead-text > a:link{
 			color: black;
 			opacity: 87%;
 		}
