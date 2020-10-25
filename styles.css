@@ -354,7 +354,12 @@
 	
 	}
 	
-	
+	img.img-gif{
+			height: 250px;
+			width: 250px;
+			border-radius: 10px;
+			
+		}
 	
 	@media (min-width: 992px){
 		
@@ -428,7 +433,12 @@
 		
 		}
 		
-		
+		img.img-gif{
+			height: 350px;
+			width: 350px;
+			border-radius: 10px;
+			
+		}
 	
 	
 	}
