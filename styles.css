@@ -376,8 +376,8 @@
 		img.rounded-corners{
 			
 		border-radius: 10px;
-		height: 550px;
-		width: 550px;
+		height: 500px;
+		width: 500px;
 	}
 	
 	
@@ -401,17 +401,17 @@
 	}
 
 	img.img-wrapper:hover {
-		-webkit-transform:scale(1.1); /* Safari and Chrome */
-		-moz-transform:scale(1.1); /* Firefox */
-		-ms-transform:scale(1.1); /* IE 9 */
-		-o-transform:scale(1.1); /* Opera */
-		transform:scale(1.1);
+		-webkit-transform:scale(1.05); /* Safari and Chrome */
+		-moz-transform:scale(1.05); /* Firefox */
+		-ms-transform:scale(1.05); /* IE 9 */
+		-o-transform:scale(1.05); /* Opera */
+		transform:scale(1.05);
 	}
 		
 	
 		div.gallery {
 	  
-			width: 550px;
+			width: 500px;
 		}
 		
 		
