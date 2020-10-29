@@ -208,7 +208,7 @@
 	  }
 		
 		.masthead .masthead-text{
-		font-size: 20px;
+		font-size: 28px;
 		line-height: 1.5;
 		padding-right: 300px;
 		
@@ -221,6 +221,17 @@
 			color: black;
 			opacity: 87%;
 		}
+		
+		.masthead .masthead-text > a:active{
+			color: black;
+			opacity: 87%;
+		}
+		
+		.masthead .masthead-text > a:visited{
+			color: black;
+			opacity: 87%;
+		}
+		
 		
 	}
 	
