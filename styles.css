@@ -156,11 +156,22 @@
 		
 	}
 
+	
+	
 	.masthead .masthead-text > a:link{
+			color: black;
 		
-		color: black;
-		opacity: 87%;
-	}
+		}
+		
+		.masthead .masthead-text > a:active{
+			color: black;
+		}
+		
+		.masthead .masthead-text > a:visited{
+			color: black;
+		
+		}
+		
 	
 	
 		.masthead .wave {
