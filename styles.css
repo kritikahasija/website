@@ -203,7 +203,7 @@
 	  }
 	  .masthead .masthead-heading {
 		font-size: 48px;
-		
+		font-weight: 100px;
 		line-height: 1.5;
 		font-family: Playfair display;
 		letter-spacing: 1px;
@@ -213,7 +213,8 @@
 		font-size: 36px;
 		line-height: 1.5;
 		padding-right: 300px;
-		
+		font-weight: 100px;
+
 		color: black;
 		opacity:87%
 	  }
